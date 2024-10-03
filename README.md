@@ -1,5 +1,5 @@
 ## Hello! I'm Kyle👋
-#### Currently working as the IT Coordinator for a private school.
+#### Currently working in IT providing Tech Support.
 
 💻 Personal software projects for me have looked like:
 <br>&emsp;&nbsp;🛠️ Developing both client-side, and full-stack on the server-side.
